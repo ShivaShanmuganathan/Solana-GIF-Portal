@@ -1,5 +1,7 @@
 # buildspace Solana GIF Portal Project
 
+## [View Live Project Here](https://gifportalsolana.netlify.app/)
+
 ### **Welcome 👋**
 To get started with this course, clone this repo and follow these commands:
 
