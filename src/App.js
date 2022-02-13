@@ -30,7 +30,7 @@ const opts = {
 
 
 // Constants
-const TWITTER_HANDLE = '_buildspace';
+const TWITTER_HANDLE = 'shanshiva1';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
 
@@ -247,7 +247,7 @@ const App = () => {
     <div className="App">
       <div className={walletAddress ? 'authed-container' : 'container'}>
         <div className="header-container">
-          <p className="header">🖼 Favorite Series Collection</p>
+          <p className="header">🎥 Favorite Series Collection</p>
           <p className="sub-text">
             View your Favorite Series Collection in the Metaverse ✨
           </p>
@@ -262,7 +262,7 @@ const App = () => {
             href={TWITTER_LINK}
             target="_blank"
             rel="noreferrer"
-          >{`built on @${TWITTER_HANDLE}`}</a>
+          >{`find me @${TWITTER_HANDLE}`}</a>
         </div>
       </div>
     </div>
