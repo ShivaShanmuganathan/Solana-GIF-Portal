@@ -3,7 +3,7 @@
 ## GIF Portal Dapp Built Using Anchor, Rust and React
 
 1. Users can connect to this Dapp using their Phantom Wallet. 
-2. They can thenpaste the GIF or Image link of their favorite series.
+2. They can then paste the GIF or Image link of their favorite series.
 3. Click on Submit, and submit a transaction to update their favorite series on this dapp
 4. Voila! ✨
 
