@@ -3,9 +3,10 @@
 ## GIF Portal Dapp Built Using Anchor, Rust and React
 
 1. Users can connect to this Dapp using their Phantom Wallet. 
-2. They can then paste the GIF or Image link of their favorite series.
-3. Click on Submit, and submit a transaction to update their favorite series on this dapp
-4. Voila! ✨
+2. They can then submit the GIF or Image link of their favorite series.
+3. A transaction is submitted to the Solana Blockchain to update their favorite series on this dapp
+4. The submission is displayed in the dapp, along with all the previous user submissions.
+5. Voila! ✨
 
 ## [View Live Project Here](https://gifportalsolana.netlify.app/)
 
